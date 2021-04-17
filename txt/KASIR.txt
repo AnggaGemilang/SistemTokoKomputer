@@ -1,0 +1,38 @@
+                   	   ||||||||  PANDUAN PENGGUNAAN  APLIKASI TOKO KOMPUTER ||||||||
+
+ Aplikasi ini dibuat untuk memudahkan penyimpanan data barang dan transaksi yang dibutuhkan toko dan pelanggan.
+
+PANDUAN UTAMA PENGGUNAAN APLIKASI (KASIR)
+1.Dalam menu ini hanya terdapat fitur transaksi dan tambah member.
+2.Apabila terdapat pilihan [y/t] y untuk "ya" dan t untuk "tidak".
+3.Masukan pilihan menu yang akan anda pilih dengan memasukkan nomor yang tersedia.
+4.Masukkan input sesuai dengan batas yang telah ditentukan.
+
+FITUR FITUR DALAM APLIKASI
+
+1. KELOLA TRANSAKSI
+
+	1.1  PEMBELIAN 
+	Dapat Menambahkan barang yang sudah ada dan barang baru serta hasil transaksi akan tercatat
+
+	1.2  PENYEWAAN
+	Menyewakan barang yang dapat disewa dalam data barang
+
+	1.3  PENJUALAN
+	Menjual barang yang sudah ada terdapat fitur garansi,diskon , pajak, retur barang dan struk
+	serta hasil transaksi akan tecatat
+
+	1.4  PENGEMBALIAN
+	Mengembalikan barang yang telah disewa dengan ketentuan
+	denda (10%) / hari
+	Apakah barang rusak?  -> 	
+	A. kerusakan ringan (5% - 20%) / (lecet) -> denda (5% - 20%)
+	B. kerusakan sedang (21% - 70%) / (beberapa komponen rusak) -> denda (21% - 70%)
+	C. kerusakan berat (71% - 100%) / (tidak bisa dipakai) -> denda (71% - 100%)
+
+	1.5  LAPORAN
+	Hasil laporan dari transaksi berdasarkan  bulan ini, bulan sampai dan keseluruhan
+
+	1.6  TAMBAH MEMBER
+	Menambah data member
+	

@@ -1,0 +1,38 @@
+                   	   ||||||||  PANDUAN PENGGUNAAN  APLIKASI TOKO KOMPUTER ||||||||
+
+ Aplikasi ini dibuat untuk memudahkan penyimpanan data barang dan transaksi yang dibutuhkan toko dan pelanggan.
+
+PANDUAN UTAMA PENGGUNAAN APLIKASI (GUDANG)
+1. Dalam menu ini hanya terdapat fitur kelola barang.
+2. Apabila terdapat pilihan [y/t] y untuk "ya" dan t untuk "tidak".
+3. Masukan pilihan menu yang akan anda pilih dengan memasukkan nomor yang tersedia.
+4. Masukkan input sesuai dengan batas yang telah ditentukan.
+
+FITUR FITUR DALAM APLIKASI
+
+1.KELOLA BARANG
+
+	1.1  TAMBAH BARANG
+	Menambah data barang
+
+	1.2  CARI BARANG
+	Mencari barang dari data yang telah ada dengan menggunakan kata kunci
+
+	1.3  HAPUS BARANG
+	Menghapus barang yang telah ada menggunakan id barang
+
+	1.4  EDIT BARANG
+	Mengubah barang yang telah ada menggunakan id barang
+
+	1.5  AKTIFKAN BARANG
+	Untuk mengaktifkan data barang yang masih ada dan dapat digunakan
+
+	1.6  NONAKTIFKAN BARANG
+	Untuk menonaktifkan data barang yang habis dan tidak digunakan 
+
+	1.7  TAMPILKAN BARANG
+	Menampilkan barang yang telah ada pada tabel 
+	   -BY ASCENDING
+	     Mengurutkan barang yang akan ditampilkan dari urutan terkecil hingga terbesar
+	   -BY DESCENDING
+	     Mengurutkan barang yang akan ditampilkan dari urutan terbesar hingga terkecil
